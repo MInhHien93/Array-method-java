@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Array-method-java.iml" filepath="$PROJECT_DIR$/.idea/Array-method-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeleteValue/DeleteValue.iml" filepath="$PROJECT_DIR$/DeleteValue/DeleteValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxArray/MaxArray.iml" filepath="$PROJECT_DIR$/MaxArray/MaxArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMethod/MinMethod.iml" filepath="$PROJECT_DIR$/MinMethod/MinMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/ReverseArray/ReverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemperatureSwitch/TemperatureSwitch.iml" filepath="$PROJECT_DIR$/TemperatureSwitch/TemperatureSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueArray/ValueArray.iml" filepath="$PROJECT_DIR$/ValueArray/ValueArray.iml" />
+    </modules>
+  </component>
+</project>
